@@ -6,9 +6,9 @@
 	<img align="center" src="https://www.pngitem.com/pimgs/m/616-6164272_all-programming-languages-logo-hd-png-download.png" style="width: 100%" />
 </p>
 
-## <img src="https://github.com/smirnovvvasyl/VasylSmirnov/blob/main/wave.gif" alt="" width="50px" /> About Me
+## <img src="https://github.com/smirnovvvasyl/VasylSmirnov/blob/master/assets/wave.gif" alt="" width="50px" /> About Me
 
-- :credit_card: I am a **silent developer** <img src="https://github.com/smirnovvvasyl/VasylSmirnov/blob/main/Cdt.gif" width="400" align="right" />
+- :credit_card: I am a **silent developer** <img src="https://github.com/smirnovvvasyl/VasylSmirnov/blob/master/assets/Cdt.gif" width="400" align="right" />
 - :books: My major is **All-Around Develop**
 - :earth_asia: I'm living now in **ASIA**
 - :sweat_smile: I love computer, so I want to know all technologies.
@@ -28,21 +28,21 @@
   </tr>
 </table>
 
-## <img src='https://github.com/smirnovvvasyl/VasylSmirnov/blob/main/shake.gif' width="80px" /> For More Information, Please Check Out or Connect Me Via
+## <img src='https://github.com/smirnovvvasyl/VasylSmirnov/blob/master/assets/shake.gif' width="80px" /> For More Information, Please Check Out or Connect Me Via
 
 <div>
 	<h5>
-		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/smirnovvvasyl/VasylSmirnov/blob/main/Gmail.svg" />
+		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/smirnovvvasyl/VasylSmirnov/blob/master/assets/Gmail.svg" />
 	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;smirnovvvasyl@gmail.com
 	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/smirnovvvasyl/VasylSmirnov/blob/main/Telegram.png" />
+		<img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/smirnovvvasyl/VasylSmirnov/blob/master/assets/Telegram.png" />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/VasylSmirnov
 	</h5>
 	<h5>
-		<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/smirnovvvasyl/VasylSmirnov/blob/main/Skype.png" />
+		<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/smirnovvvasyl/VasylSmirnov/blob/master/assets/Skype.png" />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.2b816352bb24daa0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/smirnovvvasyl/VasylSmirnov/blob/main/Githbu.png" />
+		<img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/smirnovvvasyl/VasylSmirnov/blob/master/assets/Githbu.png" />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/smirnovvvasyl
 	</h5>
 <div>
