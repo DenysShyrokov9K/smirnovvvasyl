@@ -2,7 +2,8 @@
 
 
 <div>
-    <img src='https://github.com/smirnovvvasyl/smirnovvvasyl/blob/master/code.gif'>
+    <img src='https://github.com/smirnovvvasyl/smirnovvvasyl/blob/master/assets/svg/profile-green.svg'>
+    <img src='https://github.com/smirnovvvasyl/smirnovvvasyl/blob/master/assets/code.gif'>
 </div>
 
 
