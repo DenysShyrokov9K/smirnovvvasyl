@@ -1,7 +1,9 @@
 ### 🔥 Enthusiastic and creative developer with hands-on skills in a wide range of web applications
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-![](./code.gif)
+
+<div>
+    <img src='https://github.com/smirnovvvasyl/smirnovvvasyl/blob/master/code.gif'>
+</div>
 
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
