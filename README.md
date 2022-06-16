@@ -1,14 +1,10 @@
 ### 🔥 Enthusiastic and creative developer with hands-on skills in a wide range of web applications
 
 
-<table>
-    <tr>
-        <img src='https://github.com/smirnovvvasyl/smirnovvvasyl/blob/master/assets/svg/profile-green.svg'>
-    </tr>
-    <tr>
-        <img src='https://github.com/smirnovvvasyl/smirnovvvasyl/blob/master/assets/code.gif'>
-    </tr>
-</table>
+<div style='display:flex' class = "asdsdf">
+    <img src='https://github.com/smirnovvvasyl/smirnovvvasyl/blob/master/assets/svg/profile-green.svg'>
+    <img src='https://github.com/smirnovvvasyl/smirnovvvasyl/blob/master/assets/code.gif'>
+</div>
 
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
